@@ -7,13 +7,13 @@ It is a three.js extension to display a fully procedural city based on
 [@mrdoob](http://mrdoob.com).
 
 You can try a
-[demo live](https://jeromeetienne.github.io/threex/src/threex.proceduralcity/examples/demo.html)
+[demo live](https://jeromeetienne.github.io/threex/examples/demo.html)
 and check its 
-[source](https://github.com/jeromeetienne/threex/blob/master/src/threex.proceduralcity/examples/demo.html).
+[source](https://github.com/jeromeetienne/threex/blob/master/examples/demo.html).
 Here is a 
-[more basic example](http://jeromeetienne.github.io/threex/src/threex.proceduralcity/examples/basic.html) 
+[more basic example](http://jeromeetienne.github.io/threex/examples/basic.html) 
 and its [source]
-[source](https://github.com/jeromeetienne/threex/blob/master/src/threex.proceduralcity/examples/basic.html).
+[source](https://github.com/jeromeetienne/threex/blob/master/examples/basic.html).
 
 ## How To install it
 
